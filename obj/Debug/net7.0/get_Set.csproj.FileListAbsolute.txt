@@ -1,0 +1,15 @@
+/Users/furb-x/Applications/get_Set/bin/Debug/net7.0/get_Set
+/Users/furb-x/Applications/get_Set/bin/Debug/net7.0/get_Set.deps.json
+/Users/furb-x/Applications/get_Set/bin/Debug/net7.0/get_Set.runtimeconfig.json
+/Users/furb-x/Applications/get_Set/bin/Debug/net7.0/get_Set.dll
+/Users/furb-x/Applications/get_Set/bin/Debug/net7.0/get_Set.pdb
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.csproj.AssemblyReference.cache
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.AssemblyInfoInputs.cache
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.AssemblyInfo.cs
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.csproj.CoreCompileInputs.cache
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.dll
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/refint/get_Set.dll
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.pdb
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/get_Set.genruntimeconfig.cache
+/Users/furb-x/Applications/get_Set/obj/Debug/net7.0/ref/get_Set.dll

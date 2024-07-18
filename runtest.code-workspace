@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../runtest"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "Google AI Studio"
+	}
+}
